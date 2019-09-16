@@ -1,9 +1,9 @@
 
 <center> <H1> 第一章 Python程式語言</H1> </center>
 
-[Python程式語言介紹](#1.1-Python程式語言介紹)
+[Python程式語言介紹](#1-1-Python程式語言介紹)
 
-[Python應用領域](# 1-3-Python應用領域)
+[Python應用領域](#1-3-Python應用領域)
 
 ## 1.1 Python程式語言介紹
 
