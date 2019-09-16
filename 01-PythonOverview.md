@@ -3,7 +3,7 @@
 
 [Python程式語言介紹](#1-1-Python程式語言介紹)
 
-[Python應用領域](#1.3 Python應用領域)
+[Python應用領域](#1.3Python應用領域)
 
 ## 1.1 Python程式語言介紹
 
@@ -45,7 +45,7 @@ Python標準庫的主要功能有：
 
 Python社群提供了大量的第三方模組，使用方式與標準庫類似。它們的功能覆蓋科學計算、Web開發、資料庫介面、圖形系統多個領域。第三方模組可以使用Python或者C語言編寫。
 
-## 1.3 Python應用領域
+## 1.3Python應用領域
 
 python的應用領域非常廣泛，根據[TIOBE的評估](https://www.tiobe.com/tiobe-index/)，Python是目前軟體開發人員相當喜愛的程式語言之一，2018年九月份排名第三。相關的應用領域包括
 
