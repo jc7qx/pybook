@@ -5,6 +5,8 @@
 
 [Python應用領域](#basic-syntax)
 
+[test](#Python應用領域)
+
 ## python overview
 
 Python是一種**通用型高階程式語言**(General Purpose High Level Programming Language)，由[Guido van Rossum](https://zh.wikipedia.org/zh-tw/%E5%90%89%E5%A4%9A%C2%B7%E8%8C%83%E7%BD%97%E8%8B%8F%E5%A7%86)開發，於1991年釋出第一版。Python是一種**直譯語言**，Python的設計哲學強調程式碼的可讀性和簡潔的語法（尤其是使用**空格縮排**來區分程式區塊，而不像C語言使用大括號）。不管是小型還是大型程式，該語言都試圖讓程式的結構清晰明瞭。Python擁有**動態型別**系統和**垃圾回收**功能，能夠自動管理記憶體使用，並且支援多種**撰寫典範**，包括物件導向、命令式、函數式和程序式編程。擁有一個巨大而廣泛的標準程式庫。
@@ -45,7 +47,7 @@ Python標準庫的主要功能有：
 
 Python社群提供了大量的第三方模組，使用方式與標準庫類似。它們的功能覆蓋科學計算、Web開發、資料庫介面、圖形系統多個領域。第三方模組可以使用Python或者C語言編寫。
 
-## 1.3Python應用領域
+## Python應用領域
 
 python的應用領域非常廣泛，根據[TIOBE的評估](https://www.tiobe.com/tiobe-index/)，Python是目前軟體開發人員相當喜愛的程式語言之一，2018年九月份排名第三。相關的應用領域包括
 
